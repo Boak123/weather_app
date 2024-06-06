@@ -6,7 +6,7 @@ A program that uses open weather API to give current weather report of your loca
   - CSS
   - JAVASCRIPT
 
-## Project Decription 
+## Project Decription. 
 The project description can be found in the [Google Slide](https://docs.google.com/presentation/d/1k13lPpMOenkyew0OBXifVAOZMboggeDoXU7PThQXjgs/edit?usp=sharing) Link
 
 
